@@ -1,0 +1,1 @@
+export const flippedMaycContractAddress = '0xe870335af603D555DCEe17c5C223DaA03D492cfD'
